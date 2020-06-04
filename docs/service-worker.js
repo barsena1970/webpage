@@ -1,4 +1,4 @@
-var  cacheName = 'grecko-cache';
+var  cacheName = 'sena-cache';
 
 // Beware that index.html may also be requested as (/)
 var filesToCache = [
